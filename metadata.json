@@ -1,0 +1,7 @@
+{
+  "name": "FluentBuddy AI English Tutor",
+  "description": "A high-fidelity AI-powered English language tutor with real-time video avatar, voice feedback, and exam-specific practice modes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
